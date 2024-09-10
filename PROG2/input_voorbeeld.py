@@ -1,5 +1,5 @@
 # De input functie geeft ons altijd een string
-ans = input("Wat is je leeftijd?")
+ans = input("Wat is je leeftijd?\n")
 
 # Als we hier het type printen krijgen we dus een string
 print(type(ans))
