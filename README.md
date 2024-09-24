@@ -15,6 +15,7 @@ we in de lessen hebben laten zien.
 - [Je eerste code schrijven](#je-eerste-code-schrijven)
 - [Hoe schrijf je een README](#een-readme-schrijven)
 - [Tips bij vragen](#tips-bij-vragen)
+- [Links](#links)
 
 ---
 
@@ -94,3 +95,21 @@ gebruikt worden om de content van een webpagina in te schrijven.
   - If/else/while/for/and/or/not/def en alle andere woorden die highlighten
   - Variabelen mogen niet beginnen met een getal.
 - Wees niet bang om je leerteam aan te spreken! Programmeren is lastig en de meeste van jullie beginnen vanaf 0!
+
+## Links
+
+### Basis Python
+
+Oefeningen/cursussen:
+- [CodeCafé Videos Python voor Beginners-videos (met oefeningen)](https://www.youtube.com/watch?v=T_-aj-nnFQE&list=PLh6t1fqgX7eKTXAbQkXn65a-Ac_zxlUaS)
+- [HackerRank Python-oefeningen](https://www.hackerrank.com/domains/python)
+- [KhanAcademy-cursus Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals)
+
+Losse bronnen:
+- [Break and continue (met illustraties)](https://www.programiz.com/python-programming/break-continue)
+
+### Extra
+
+- [Gekleurde text in Python zonder installatie](https://sentry.io/answers/print-colored-text-to-terminal-with-python/)
+- [Voorbeeld gekleurde tekst](extra/colourful_text.py)
+- [Voorbeeld geanimeerde 'laden' puntjes](extra/loading_animation.py)
