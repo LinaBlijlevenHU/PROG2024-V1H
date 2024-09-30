@@ -1,1 +1,6 @@
+# Negeer de files van PyCharm
 .idea
+
+# En mijn geheimen
+/PROG8/.env
+
