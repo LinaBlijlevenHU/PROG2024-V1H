@@ -98,6 +98,8 @@ gebruikt worden om de content van een webpagina in te schrijven.
 
 ## Links
 
+De volgende bronnen bevatten nuttige informatie om meer over Python te leren.
+
 ### Basis Python
 
 Oefeningen/cursussen:
@@ -107,6 +109,9 @@ Oefeningen/cursussen:
 
 Losse bronnen:
 - [Break and continue (met illustraties)](https://www.programiz.com/python-programming/break-continue)
+
+Boek (Nederlands): 
+- [De programmeursleerling](https://www.spronck.net/pythonbook/dutchindex.xhtml)
 
 ### Extra
 
